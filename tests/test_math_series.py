@@ -15,4 +15,3 @@ def test_sum_series_lucas():
     actual=sum_series(7,2,1)
     assert expected == actual
 
-def 
